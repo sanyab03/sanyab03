@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanya Bansal
-- 👀 front-end developer
+- 👀 front-end developer and UI/Ux Designer
 - 🌱 undergrad
 
 
