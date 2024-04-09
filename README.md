@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Sanya Bansal
-- 👀 web dev enthusiast
+- 👀 front-end developer
 - 🌱 undergrad
-- 📫 reach out to me through linkedin : https://www.linkedin.com/in/sanya-bansal-5115bb21b/
-- 😄 she/her
-- ⚡ I live in India
+
+
 
 <!---
 sanyab03/sanyab03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
