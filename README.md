@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanya Bansal
-- 👀 front-end developer and UI/UX Designer
+- 👀 Aspring Front-end Developer and UI/UX Designer
 - 🌱 undergrad
 
 
