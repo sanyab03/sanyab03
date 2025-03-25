@@ -8,4 +8,4 @@
 💭Currently learning about Next.js and backend technologies </br>
 
 <!--Github stats-->
-![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyab03&show_icons=true&theme=radical)
+![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyab03&show_icons=true&theme=radical&hiderank=false)
