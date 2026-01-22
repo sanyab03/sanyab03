@@ -3,7 +3,7 @@
 ## Hi, I'm Sanya!
 
 👩‍💻Software Engineer sharing about my journey and learnings in tech </br>
-👩‍🎓Pursued B.Tech at the Vivekananda Institute Of Professional Studies - Technical Campus , India </br>
+👩‍🎓Pursued B.Tech from Vivekananda Institute Of Professional Studies - Technical Campus , India </br>
 🌷Reading about Self development and productivity , and exploring my interest in art through sketching and painting </br>
 💭Currently learning new backend technologies! </br>
 
