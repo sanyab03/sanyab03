@@ -2,10 +2,10 @@
 
 ## Hi, I'm Sanya!
 
-👩‍💻Software Engineer sharing about my journey and learnings in tech </br>
-👩‍🎓Pursued B.Tech from Vivekananda Institute Of Professional Studies - Technical Campus , India </br>
-🌷Reading about Self development and productivity , and exploring my interest in art through sketching and painting </br>
-💭Currently learning new backend technologies! </br>
+👩‍💻 Software Engineer who loves building, learning, and sharing along the way </br>
+📚 Interested in self-development, productivity, and continuous growth </br>
+🎨 Enjoy sketching, painting, and exploring creative hobbies outside of tech </br>
+🚀 Currently diving deeper into backend development</br>
 
 <!--Github stats-->
 ![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyab03&show_icons=true&theme=radical&hiderank=false)
